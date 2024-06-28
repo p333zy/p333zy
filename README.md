@@ -1,4 +1,4 @@
-Where are all the bugs at?
+Where are all the bugs at? 🧐 Vulnerability Researcher, read about some of my work at: [rop4.sh](https://rop4.sh)
 
 ```
           .-.
@@ -26,4 +26,3 @@ Where are all the bugs at?
     /__.-.)  /__.-.) 
 ```
 
-Vulnerability Research, read about some of my work at: [rop4.sh](https://rop4.sh)
